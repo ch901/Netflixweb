@@ -290,8 +290,10 @@ padding: 10px;
 footer select{
     background: transparent;
     color: white;
-    padding: 10px 0px 10px 20px;
+    padding: 10px 0px 10px 22px;
     border-radius: 3px;
+    margin-left: 275px;
+    margin-bottom: 20px;
 }
 footer div.select{
     margin-right: 30px;
@@ -302,7 +304,7 @@ footer div.select svg{
     fill: #fff;
     position: absolute;
     margin-top: 8px;
-    margin-left: 5px;
+    margin-left: 279px;
 
 }
 
